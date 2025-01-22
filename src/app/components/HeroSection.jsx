@@ -12,7 +12,7 @@ const HeroSection = () => {
                 </p>
             </div>
             <div className="col-span-5 place-self-center">
-                <div className="rounded-full my-10 bg-[#202020] my-10px w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+                <div className="rounded-full my-5 bg-[#202020] my-10px w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                     <Image
                         className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 center rounded-3xl"
                         src="/images/me_tidepools.jpg"
